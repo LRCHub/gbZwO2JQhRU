@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Off White",
+  "base_artist": "YELLASOMA",
+  "createdAt": "2026-03-23T20:01:22.191224Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Off White",
+      "artist": "Lil Pump",
+      "has_synced": true,
+      "path": "select/01_Off_White_Lil_Pump.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Off White",
+      "artist": "Lil Gotit feat. HoodRich Pablo Juan",
+      "has_synced": false,
+      "path": "select/02_Off_White_Lil_Gotit_feat._HoodRich_Pablo_Juan.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Off White (ft. Hoodrich Pablo Juan)",
+      "artist": "Lil Gotit",
+      "has_synced": false,
+      "path": "select/03_Off_White_(ft._Hoodrich_Pablo_Juan)_Lil_Gotit.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Off-White (feat. Lil Keed)",
+      "artist": "Lil Gotit feat. Lil Keed",
+      "has_synced": true,
+      "path": "select/04_Off-White_(feat._Lil_Keed)_Lil_Gotit_feat._Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Off-White (feat. Lil Keed)",
+      "artist": "Lil Gotit;Lil Keed",
+      "has_synced": true,
+      "path": "select/05_Off-White_(feat._Lil_Keed)_Lil_Gotit;Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV)",
+      "artist": "Lil Baby feat. Gunna, Lil Durk & NAV",
+      "has_synced": true,
+      "path": "select/06_Off_White_VLONE_(Lil_Baby_&_Gunna_feat._Lil_Durk_&_NAV)_Lil_Baby_feat._Gunna,_Lil_Durk_&_NAV.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Off White VLONE",
+      "artist": "Lil Baby",
+      "has_synced": true,
+      "path": "select/07_Off_White_VLONE_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Off White Vlone (feat. Lil Durk & NAV)",
+      "artist": "Lil Baby & Gunna",
+      "has_synced": true,
+      "path": "select/08_Off_White_Vlone_(feat._Lil_Durk_&_NAV)_Lil_Baby_&_Gunna.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV)",
+      "artist": "Lil Baby, Gunna, Lil Durk, NAV",
+      "has_synced": true,
+      "path": "select/09_Off_White_VLONE_(Lil_Baby_&_Gunna_feat._Lil_Durk_&_NAV)_Lil_Baby,_Gunna,_Lil_Durk,_NAV.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Off White VLONE",
+      "artist": "Lil Baby & Gunna feat. Lil Durk & NAV",
+      "has_synced": true,
+      "path": "select/10_Off_White_VLONE_Lil_Baby_&_Gunna_feat._Lil_Durk_&_NAV.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Off White (feat. Lil Keed)",
+      "artist": "Lil Gotit",
+      "has_synced": false,
+      "path": "select/11_Off_White_(feat._Lil_Keed)_Lil_Gotit.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Off White (feat. HoodRich Pablo Juan)",
+      "artist": "Lil Gotit feat. HoodRich Pablo Juan",
+      "has_synced": false,
+      "path": "select/12_Off_White_(feat._HoodRich_Pablo_Juan)_Lil_Gotit_feat._HoodRich_Pablo_Juan.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Off White (feat. HoodRich Pablo Juan)",
+      "artist": "Lil Gotit",
+      "has_synced": false,
+      "path": "select/13_Off_White_(feat._HoodRich_Pablo_Juan)_Lil_Gotit.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Off White (feat. Global Mongo)",
+      "artist": "Global Dan feat. Global Mongo",
+      "has_synced": true,
+      "path": "select/14_Off_White_(feat._Global_Mongo)_Global_Dan_feat._Global_Mongo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Off-White (feat. Global Mongo)",
+      "artist": "Global Dan",
+      "has_synced": true,
+      "path": "select/15_Off-White_(feat._Global_Mongo)_Global_Dan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Off-White",
+      "artist": "Pam Tillis",
+      "has_synced": false,
+      "path": "select/16_Off-White_Pam_Tillis.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Off White VLONE",
+      "artist": "LiL Baby, Gunna",
+      "has_synced": true,
+      "path": "select/17_Off_White_VLONE_LiL_Baby,_Gunna.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Off White Jays",
+      "artist": "1K Phew",
+      "has_synced": false,
+      "path": "select/18_Off_White_Jays_1K_Phew.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Off White VLONE",
+      "artist": "Baby Lil",
+      "has_synced": true,
+      "path": "select/19_Off_White_VLONE_Baby_Lil.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Off White Sweater",
+      "artist": "Millyz",
+      "has_synced": true,
+      "path": "select/20_Off_White_Sweater_Millyz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Off White",
+      "artist": "YELLASOMA",
+      "has_synced": false,
+      "path": "select/pl_01_Off_White_YELLASOMA.txt"
+    }
+  ]
+}
